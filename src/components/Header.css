@@ -1,0 +1,37 @@
+.header{
+    display: flex;
+    background-color: rgb(4, 4, 54);
+    color: aliceblue;
+    padding-left: 200px;
+    font-size: 14px;
+    height: 350px;
+}
+.sub-head{
+    display: flex;
+    padding-top: 5px;
+    padding-left: 300px;
+    font-size: 12px;
+}
+.icon{
+    padding-top: 12px;
+    padding-left: 25px;
+    padding-right: 4px;
+    font-size: 16px;
+}
+/* .icon-twitter{
+    color: aliceblue;
+  } */
+  .btn{
+    height: 40px;
+    background-color: azure;
+    border-radius: 10px;
+  }
+
+  .headerStyleChange{
+     display: flex;
+     background-color: rgb(227, 229, 225);
+     color: rgb(14, 10, 50);
+     padding-left: 200px;
+     font-size: 14px;
+     height: 350px;
+  }

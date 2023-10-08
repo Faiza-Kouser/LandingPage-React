@@ -1,0 +1,13 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+  margin : 0;
+}
+
+.change{
+  background-color: aliceblue;
+  font-size: 100px;
+}

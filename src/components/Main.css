@@ -1,0 +1,109 @@
+.main-page{
+    background-color: rgb(227, 229, 225);
+    position: absolute;
+    top: 280px;
+    left:20px;
+    right: 20px;
+    z-index: 1;
+}
+
+.display-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 200px;
+    object-fit: cover;
+    object-position: 60% 40%;
+    
+}
+.img{
+    padding: 0px 590px;
+    position: absolute; 
+    top: -50px;  
+}
+.content-div{
+   margin-top: 120px;
+}
+.heading{
+    font-size: 22px;
+    color: rgb(48, 46, 46);
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.subheading{
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(59, 58, 58);
+    text-align: center;
+}
+.icons-main{
+    color: rgb(72, 72, 72);
+    text-align: center;
+}
+.icon-main{
+    padding: 0px 10px;
+    font-size: 16px;
+}
+.content{
+    color: rgb(72, 72, 72);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.5rem;
+}
+.iconsEnd{
+    color: rgb(48, 46, 46);
+    text-align: center;
+}
+.labels{
+    display: flex;
+    justify-content: center;
+}
+.label{
+    font-size: 10px;
+    padding: 0px 20px;
+}
+.icon-end{
+    
+    padding: 0px 28px;
+    font-size: 18px;
+}
+/* .icon-end :hover{
+    background-color: aquamarine;
+    height: 40px;
+} */
+
+.mainStyleChange{
+    background-color:  rgb(14, 10, 50);
+    color: rgb(255, 255, 255) ;
+    position: absolute;
+    top: 280px;
+    left:20px;
+    right: 20px;
+    z-index: 1;
+}
+
+.headingChange{
+    color: rgb(255, 255, 255) ;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.subHeadingChange{
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(255, 255, 255) ;
+    text-align: center;
+}
+.contentChange{
+    color: rgb(255, 255, 255) ;
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.5rem;
+}
+.iconsChange{
+    color: rgb(255, 255, 255) ;
+    text-align: center;
+}
